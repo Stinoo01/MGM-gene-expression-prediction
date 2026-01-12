@@ -1,7 +1,5 @@
 # Multilayer Graph Modeling of gene expression data
 
-Repository for the Master Thesis 2024/2025 (Data Science, Sapienza University of Rome). 
-
 This project contains the code for a multilayer graph-based framework to predict gene expression from histone modification data.
 
 ## System Requirements
