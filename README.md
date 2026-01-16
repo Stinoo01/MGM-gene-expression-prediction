@@ -1,6 +1,6 @@
 # Multilayer Graph Modeling of Gene Expression Data
 
-This project contains the code for a multilayer graph-based framework to predict gene expression from histone modification data.
+This repository contains the code for a multilayer graph-based framework to predict gene expression from histone modification data.
 
 ## System Requirements
 
