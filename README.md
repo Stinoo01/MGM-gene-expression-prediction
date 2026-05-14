@@ -1,4 +1,4 @@
-# Multilayer Graph Modeling of Gene Expression Data
+# Multilayer Graph Model for Gene Expression Classification from Epigenomic Data
 
 This repository contains the code for a multilayer graph-based framework to predict gene expression from histone modification data.
 
